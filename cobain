@@ -5,6 +5,9 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE
 https://iptv.mwafa.net/dm?id=k2uDgtBgdyXR1AoH4XD
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE
+https://www.youtube.com/embed/JzLDCNxTEmA?autoplay=1
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="nasional", SCTV
 https://iptv.mwafa.net/vidio?id=204
 
