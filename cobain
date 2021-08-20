@@ -19,6 +19,7 @@ http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp
 http://gpc.my.id/vidio/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="nasional", TRANS TV
+http://gpc.my.id/vidio/trans-tv.m3u8
 http://rr3.dens.tv/s/s72/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="nasional", TRANS 7
